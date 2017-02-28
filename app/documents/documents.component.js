@@ -15,21 +15,21 @@ var DocumentsComponent = (function () {
                 description: "hellohello",
                 file_url: 'http://google.com',
                 updated_at: 'thisisupdate',
-                image_url: 'http://google.com',
+                image_url: 'http://spiderg.com/wp-content/uploads/2016/11/1-1.jpg',
             },
             {
                 title: "My First doc",
                 description: "hellohello",
                 file_url: 'http://google.com',
                 updated_at: 'thisisupdate',
-                image_url: 'http://google.com',
+                image_url: 'http://spiderg.com/wp-content/uploads/2016/11/1-1.jpg',
             },
             {
                 title: "My First doc",
                 description: "hellohello",
                 file_url: 'http://google.com',
                 updated_at: 'thisisupdate',
-                image_url: 'http://google.com',
+                image_url: 'http://spiderg.com/wp-content/uploads/2016/11/1-1.jpg',
             }
         ];
     }
